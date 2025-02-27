@@ -21,10 +21,13 @@ This project analyzes Netflix's movie catalog and guest star appearances in *The
 ## 📸 Screenshots
 
 ### Page 1
-![Page 1](images/image1.jpg) 
+![Page 1](images/image4.jpg)
 
 ### Page 2
-![Page 2](images/image2.jpg)
+![Page 2](images/image1.jpg) 
 
 ### Page 3
-![Page 3](images/image3.jpg)
+![Page 3](images/image2.jpg)
+
+### Page 4
+![Page 4](images/image3.jpg)
