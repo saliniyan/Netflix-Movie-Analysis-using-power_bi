@@ -21,7 +21,7 @@ This project analyzes Netflix's movie catalog and guest star appearances in *The
 ## 📸 Screenshots
 
 ### Page 1
-![Page 1](images/image4.jpg)
+![Page 1](images/image4.png)
 
 ### Page 2
 ![Page 2](images/image1.jpg) 
